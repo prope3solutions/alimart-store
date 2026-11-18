@@ -1,6 +1,6 @@
 {
-  "name": "Alimart",
-  "short_name": "Alimart",
+  "name": "De Liban Supermarket",
+  "short_name": "De Liban",
   "description": "Order groceries online for delivery or pickup.",
   "start_url": "./",
   "scope": "./",
