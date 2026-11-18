@@ -1,6 +1,6 @@
 {
-  "name": "De Liban Supermarket",
-  "short_name": "De Liban",
+  "name": "DeLiban Supermarket",
+  "short_name": "DeLiban",
   "description": "Order groceries online for delivery or pickup.",
   "start_url": "./",
   "scope": "./",
